@@ -1,6 +1,6 @@
 # Anomaly Detection in transistor images with Convolutional Autoencoder
 
-*Note: The notebook was executed in Google Colab to reduce training time of the deep learing model.*
+*Note: The notebook was executed in Google Colab to reduce training time of the deep learning model.*
 
 ## Project Objective
 
